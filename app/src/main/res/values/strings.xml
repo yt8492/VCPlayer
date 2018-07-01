@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VCPlayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_track_list">TrackListActivity</string>
+    <string name="title_activity_music_player">MusicPlayerActivity</string>
+    <string name="title_activity_vc_play">VcPlayActivity</string>
+</resources>
